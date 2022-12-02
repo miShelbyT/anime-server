@@ -1,0 +1,16 @@
+{
+  "name": "anime-server-deploy",
+  "version": "1.0.0",
+  "description": "Anime info pulled from ghibli api which is longer running",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Shelby Talbert",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
